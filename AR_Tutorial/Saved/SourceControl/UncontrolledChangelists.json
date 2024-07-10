@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Main.umap",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/ARGameMode.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/ARPawn.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/UnlitDefault.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/ARSessionConfig.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Materials/Mat_KRAKEN_MAIN_BODY.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Materials/Mat_TENTACLES_LEGS_CLAWS.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Spider/spider.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Spider/spider1.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Spider/spider_legs.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_smashAttackForward.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45RightSmashAttack_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_walk.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45RightSmashAttack.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45Right.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_getHit.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_sweepAttack2HitCombo.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45Right_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45Left_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_smashAttack.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_sweepSmashAttack3HitCombo.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45Left.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_smashAttackForward_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_walk_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_sweepAttack.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45LeftSmashAttack.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_death.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_turn45LeftSmashAttack_RM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Map/ContentOverview.umap",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Meshes/KRAKEN_Anim.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Meshes/KRAKEN.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Meshes/KRAKEN_PhysicsAsset.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_LEG_TENTACLE_CLAW_RoughnessMetallicSpecular.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_LEG_TENTACLE_CLAW_NRM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_LEG_TENTACLE_CLAW_AO.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_LEG_TENTACLE_BaseColor.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_BODY_RoughnessMetallicSpecular.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_BODY_NRM.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_BODY_BaseColor.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Textures/Tex_KRAKEN_BODY_AO.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Animations/KRAKEN_idle.uasset",
+				"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Content/Kraken/Meshes/KRAKEN_Skeleton.uasset"
+			]
+		}
+	]
+}

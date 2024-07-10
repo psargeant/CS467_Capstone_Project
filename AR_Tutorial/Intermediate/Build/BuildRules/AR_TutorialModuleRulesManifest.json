@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Source/AR_Tutorial.Build.cs",
+		"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Source/AR_Tutorial.Target.cs",
+		"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Source/AR_TutorialClient.Target.cs",
+		"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Source/AR_TutorialEditor.Target.cs",
+		"/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Source/AR_TutorialServer.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
