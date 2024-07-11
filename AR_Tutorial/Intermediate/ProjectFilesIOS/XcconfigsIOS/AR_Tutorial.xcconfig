@@ -1,4 +1,4 @@
-#include? "/Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Intermediate/Build/Versions.xcconfig"
+#include? "/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/Versions.xcconfig"
 
 // Unreal project-wide variables
 UE_XCODE_BUILD_MODE = Default
@@ -10,9 +10,9 @@ UE_PLATFORM_NAME = IOS
 UE_TARGET_NAME = AR_Tutorial
 UE_TARGET_PLATFORM_NAME = IOS
 UE_ENGINE_DIR = /Users/Shared/Epic Games/UE_5.4/Engine
-UE_BINARIES_DIR = /Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Binaries/IOS
+UE_BINARIES_DIR = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Binaries/IOS
 UE_STAGED_BINARIES_DIR_BASE = AR_Tutorial
-UE_PROJECT_DIR = /Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial
+UE_PROJECT_DIR = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial
 
 // Constant settings (same for all platforms and targets)
 INFOPLIST_OUTPUT_FORMAT = xml
@@ -25,7 +25,7 @@ SUPPORTED_PLATFORMS = iphoneos
 SDKROOT = iphoneos
 
 // These settings combined will tell Xcode to write to Binaries/IOS (instead of something like Binaries/Development-iphoneos)
-SYMROOT = /Users/stephengallivan/Documents/Unreal Projects/AR_Tutorial/Binaries
+SYMROOT = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Binaries
 CONFIGURATION = 
 EFFECTIVE_PLATFORM_NAME = IOS
 
