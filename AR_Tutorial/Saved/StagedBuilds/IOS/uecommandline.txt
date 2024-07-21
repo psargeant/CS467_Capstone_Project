@@ -1,1 +1,0 @@
--project="../../../AR_Tutorial/AR_Tutorial.uproject" /Game/Main -Messaging

@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GoogleARCore",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"Win64",
+				"Mac",
+				"Linux",
+				"Android"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/Shared/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cylinder.uasset",
+				"/Users/Shared/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"/Users/Shared/Epic Games/UE_5.4/Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/UserShip_Asset/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/HandheldAR/Maps/HandheldARBlankMap.umap",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/ProductAssets/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip_Projectile/BP_Projectile.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip_Asset/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip_Asset/A-Wing.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip_Asset/A-Wing_Main.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShip_Asset/A-Wing_Color.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/SoundEffects/Laser_Cue.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/SoundEffects/35683__jobro__laser6.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/A-Wing_Color.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/ProductAssets/A-Wing.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShipAsset/A-Wing_Color.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShipAsset/A-Wing_Main.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/A-Wing_Main.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/A-Wing.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShipAsset/UserShip.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Content/UserShipAsset/A-Wing.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/A-Wing.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/A-Wing_Color.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/A-Wing_Main.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/ARPawn.uasset",
+				"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Content/ProductAssets/A-Wing.uasset"
+			]
+		}
+	]
+}
