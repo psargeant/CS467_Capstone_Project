@@ -1,6 +1,6 @@
-/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Module.AR_Tutorial.cpp.o: \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Core/SharedDefinitions.Core.Project.ValApi.Cpp20.h \
+/Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Module.AR_Tutorial.cpp.o: \
+  /Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h \
+  /Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Core/SharedDefinitions.Core.Project.ValApi.Cpp20.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Reverse.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreTypes.h \
@@ -1948,8 +1948,8 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c++/v1/concepts \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/sanitizer/asan_interface.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/sanitizer/common_interface_defs.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Module.AR_Tutorial.cpp \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Definitions.AR_Tutorial.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Source/AR_Tutorial.cpp \
+  /Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Module.AR_Tutorial.cpp \
+  /Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/UnrealGame/Development/AR_Tutorial/Definitions.AR_Tutorial.h \
+  /Users/parkersargeant/Documents/Unreal\ Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Source/AR_Tutorial.cpp \
   Runtime/Core/Public/CoreTypes.h \
   Runtime/Core/Public/Modules/ModuleManager.h

@@ -76,14 +76,14 @@
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk"
 -miphoneos-version-min=15.0
--include-pch "/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
+-include-pch "/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
 -x objective-c++-header
 -std=c++20
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h"
--MD -MF"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h.d"
--o "/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h.gch"
+"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h"
+-MD -MF"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h.d"
+-o "/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Intermediate/Build/IOS/arm64/AR_Tutorial/Development/Slate/SharedPCH.Slate.Cpp20.h.gch"
 -DUE_USE_SWIFT_UI_MAIN=0
 -fno-objc-exceptions

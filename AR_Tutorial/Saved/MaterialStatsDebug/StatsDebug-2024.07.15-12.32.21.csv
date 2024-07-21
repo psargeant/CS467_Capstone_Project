@@ -1,0 +1,3 @@
+"Name","Platform","Compiles","CompilesDouble","Uses","UsesDouble","PermutationString"
+"/Game/Spider/spider_legs.spider_legs","11","2","0","0","0","Compiling spider_legs: Platform=METAL, Usage=LightingModel=MSM_Unlit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}"
+"/Game/Spider/spider1.spider1","11","2","0","0","0","Compiling spider1: Platform=METAL, Usage=LightingModel=MSM_Unlit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=0, Usage={}"

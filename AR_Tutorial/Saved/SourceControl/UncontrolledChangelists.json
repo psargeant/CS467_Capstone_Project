@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Content/ARPawn.uasset",
+				"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Content/Main.umap",
+				"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/AR_Tutorial/Content/BP_SPawnableObject.uasset",
 				"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Content/Spider/spider1.uasset",
 				"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Content/Spider/spider_legs.uasset",
 				"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/AR_Tutorial/Content/Main.umap",
