@@ -60,8 +60,8 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h"
--MD -MF"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h.d"
--o "/Users/daniel/Documents/Unreal Projects/Capstone_UserShip_CameraAttached/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h.gch"
+"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h"
+-MD -MF"/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h.d"
+-o "/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Exceptions.Cpp20.h.gch"
 -DUE_USE_SWIFT_UI_MAIN=0
 -fno-objc-exceptions

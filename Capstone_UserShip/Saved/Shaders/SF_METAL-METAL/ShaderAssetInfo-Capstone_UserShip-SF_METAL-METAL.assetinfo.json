@@ -135,6 +135,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FB1FC07DD38F179CEA2C47BB456F1783881D0244",
+			"Assets": [
+				"/Game/UFO_ASSET/UFO_fbx/UFO_Metal"
+			]
+		},
+		{
 			"ShaderMapHash": "F9C135827FD5B7DBB666E9AE387EB1F390A62E7C",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -285,6 +291,12 @@
 			"ShaderMapHash": "7C9EFDD4E7DEFC2C12E3A809082E39073222AEFA",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "69935BD67F9684D9B5CC911CCC84F049ADECFAEB",
+			"Assets": [
+				"/Game/UFO_ASSET/UFO_fbx/UFO_Glass"
 			]
 		},
 		{
