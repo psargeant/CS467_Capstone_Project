@@ -1,8 +1,0 @@
-// pull in the shared settings for all configs for this target
-#include "AR_Tutorial.xcconfig"
-
-// Unreal per-config variables
-UE_TARGET_CONFIG = DebugGame
-UE_UBT_BINARY_SUBPATH = AR_Tutorial-IOS-DebugGame
-UE_IOS_EXECUTABLE_NAME = AR_Tutorial-IOS-DebugGame
-PRODUCT_NAME = AR_Tutorial-IOS-DebugGame
