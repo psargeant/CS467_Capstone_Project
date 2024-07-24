@@ -570,70 +570,70 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 569
 "../../../Engine/Content/Maps/Entry.umap" 570
 "../../../Engine/Content/Maps/Entry.uexp" 571
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 572
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 573
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Color.uexp" 574
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Color.uasset" 575
-"../../../Engine/Content/BasicShapes/Cube.uasset" 576
-"../../../Engine/Content/BasicShapes/Cube.uexp" 577
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Projectile/BP_Projectile.uasset" 578
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Projectile/BP_Projectile.uexp" 579
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Main.uasset" 580
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Main.uexp" 581
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing.uexp" 582
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing.uasset" 583
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 584
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 585
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 586
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 587
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 588
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 589
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 590
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 591
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 592
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/UserShip.uasset" 593
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/UserShip.uexp" 594
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 595
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 596
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 597
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 598
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 599
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 600
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 601
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 602
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 603
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 604
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 605
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 606
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 607
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 608
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 609
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 610
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 611
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 612
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 613
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 614
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 615
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 616
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 617
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 618
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 619
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 620
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 621
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 622
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 623
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 624
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 625
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 626
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 627
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 628
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO.uexp" 629
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO.uasset" 630
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 631
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 632
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 633
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 634
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 572
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 573
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 574
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 575
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 576
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 577
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 578
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 579
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 580
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 581
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 582
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 583
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 584
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 585
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 586
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 587
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 588
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 589
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 590
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 591
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 592
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 593
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 594
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 595
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 596
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 597
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 598
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 599
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 600
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 601
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 602
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 603
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO.uexp" 604
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UFO_ASSET/UFO_fbx/UFO.uasset" 605
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 606
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 607
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Color.uexp" 608
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Color.uasset" 609
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 610
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 611
+"../../../Engine/Content/BasicShapes/Cube.uasset" 612
+"../../../Engine/Content/BasicShapes/Cube.uexp" 613
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Projectile/BP_Projectile.uasset" 614
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Projectile/BP_Projectile.uexp" 615
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Main.uasset" 616
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing_Main.uexp" 617
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing.uexp" 618
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/A-Wing.uasset" 619
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 620
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 621
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 622
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 623
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 624
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 625
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 626
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 627
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 628
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/UserShip.uasset" 629
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/UserShip_Asset/UserShip.uexp" 630
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 631
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 632
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 633
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 634
 "../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 635
 "../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 636
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 637
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 638
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 637
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 638
