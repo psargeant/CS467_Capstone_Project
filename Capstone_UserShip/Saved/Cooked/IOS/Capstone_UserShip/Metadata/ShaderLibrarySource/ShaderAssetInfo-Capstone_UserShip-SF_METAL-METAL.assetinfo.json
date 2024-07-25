@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7A323209BAFA60456250F3BFE43668C06A11577E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
 			"ShaderMapHash": "87E27A0B99A736B8558BEB467E213E375BADF9F8",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
@@ -74,6 +80,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ED0C35434251FAC8829292D04CDD9CA849A70F9B",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
 			"ShaderMapHash": "6957D2437DDA2441778BC96D7475D1A3AD0D3B10",
 			"Assets": [
 				"/ARUtilities/Materials/M_ScreenSpacePassthroughCamera"
@@ -101,6 +113,12 @@
 			"ShaderMapHash": "0F0F28596806F231AFCBAF6714FFE55518123DFB",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D8174A5A4EEBC02C35ED164F8672E27EAA2C4DF6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
 			]
 		},
 		{
@@ -144,6 +162,12 @@
 			"ShaderMapHash": "F9C135827FD5B7DBB666E9AE387EB1F390A62E7C",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "22F88086F7CFB101CEEBB0A70FA3D5248310474B",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
 			]
 		},
 		{
@@ -279,6 +303,12 @@
 			"ShaderMapHash": "61C59DCB358E5990630E7AC6F1AC2E295BD79DCB",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1CFDBBCC79ECD8BB7686EA77B31163E1193C9A43",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
 			]
 		},
 		{
