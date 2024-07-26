@@ -155,7 +155,7 @@
 		{
 			"ShaderMapHash": "FB1FC07DD38F179CEA2C47BB456F1783881D0244",
 			"Assets": [
-				"/Game/UFO_ASSET/UFO_fbx/UFO_Metal"
+				"/Game/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal"
 			]
 		},
 		{
@@ -198,8 +198,8 @@
 			"ShaderMapHash": "9220CD98D93D7AFAF48535C72F9C323137C6DD3A",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/UserShip_Asset/A-Wing_Color",
-				"/Game/UserShip_Asset/A-Wing_Main"
+				"/Game/ProductAssets/UserShip_Asset/A-Wing_Color",
+				"/Game/ProductAssets/UserShip_Asset/A-Wing_Main"
 			]
 		},
 		{
@@ -326,7 +326,7 @@
 		{
 			"ShaderMapHash": "69935BD67F9684D9B5CC911CCC84F049ADECFAEB",
 			"Assets": [
-				"/Game/UFO_ASSET/UFO_fbx/UFO_Glass"
+				"/Game/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass"
 			]
 		},
 		{
