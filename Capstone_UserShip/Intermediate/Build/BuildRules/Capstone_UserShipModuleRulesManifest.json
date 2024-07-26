@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.Build.cs",
-		"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.Target.cs",
-		"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipClient.Target.cs",
-		"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipEditor.Target.cs",
-		"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipServer.Target.cs"
+		"/Users/stephengallivan/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.Build.cs",
+		"/Users/stephengallivan/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.Target.cs",
+		"/Users/stephengallivan/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipClient.Target.cs",
+		"/Users/stephengallivan/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipEditor.Target.cs",
+		"/Users/stephengallivan/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShipServer.Target.cs"
 	],
-	"EngineVersion": "5.4.3"
+	"EngineVersion": "5.4.2"
 }
