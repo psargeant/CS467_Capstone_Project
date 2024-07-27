@@ -1,3 +1,7 @@
 // PCH for Runtime/Core/Public/CoreSharedPCH.h
+<<<<<<< Updated upstream
 #include "/Users/daniel/Documents/Unreal Projects/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedDefinitions.Core.Cpp20.h"
+=======
+#include "/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedDefinitions.Core.Cpp20.h"
+>>>>>>> Stashed changes
 #include "Runtime/Core/Public/CoreSharedPCH.h"

@@ -1,4 +1,8 @@
 UE_MAC_BUILD_VERSION = 0.1
+<<<<<<< Updated upstream
 UE_IOS_BUILD_VERSION = 0.4
+=======
+UE_IOS_BUILD_VERSION = 0.9
+>>>>>>> Stashed changes
 UE_TVOS_BUILD_VERSION = 0.1
 UE_VISIONOS_BUILD_VERSION = 0.1
