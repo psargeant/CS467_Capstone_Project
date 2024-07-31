@@ -62,6 +62,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AFCFC523346CEEDB3951653C60D320CAD90238F1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
 			"ShaderMapHash": "672C7F27BBD340219BBB2CC9399303F380374EEB",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -71,6 +77,12 @@
 			"ShaderMapHash": "A4BF6A2C75116192C3F367A0AE9626E31919FDAE",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2748423D897388AD45B1418927C7D23C08AC925C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
 			]
 		},
 		{
