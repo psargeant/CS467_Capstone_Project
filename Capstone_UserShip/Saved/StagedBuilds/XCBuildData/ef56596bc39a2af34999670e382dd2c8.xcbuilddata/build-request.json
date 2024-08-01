@@ -1,0 +1,73 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "29762ae51c1322da3f77643db4d9282644fd45c5d877f0df89d1d872180f51ad"
+    }
+  ],
+  "containerPath" : "/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Intermediate/ProjectFiles/Capstone_UserShip_IOS_Capstone_UserShip.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : true,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/parkersargeant/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/parkersargeant/Library/Developer/Xcode/DerivedData/Capstone_UserShip_IOS_Capstone_UserShip-awtfzmbbtqaszjbefghwbwkgaemo/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/parkersargeant/Library/Developer/Xcode/DerivedData/Capstone_UserShip_IOS_Capstone_UserShip-awtfzmbbtqaszjbefghwbwkgaemo/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Development",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_ALLOW_ENTITLEMENTS_MODIFICATION" : "YES",
+          "EFFECTIVE_PLATFORM_NAME" : "IOS",
+          "SYMROOT" : "/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Saved/StagedBuilds",
+          "UE_OVERRIDE_STAGE_DIR" : "/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Saved/StagedBuilds/IOS",
+          "UE_XCODE_BUILD_MODE" : "Stage"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
