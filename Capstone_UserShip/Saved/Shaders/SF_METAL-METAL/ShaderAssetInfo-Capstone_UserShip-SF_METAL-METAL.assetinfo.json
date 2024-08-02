@@ -210,6 +210,7 @@
 			"ShaderMapHash": "9220CD98D93D7AFAF48535C72F9C323137C6DD3A",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/ProductAssets/Materials/M_Plastic",
 				"/Game/ProductAssets/UserShip_Asset/A-Wing_Color",
 				"/Game/ProductAssets/UserShip_Asset/A-Wing_Main"
 			]
