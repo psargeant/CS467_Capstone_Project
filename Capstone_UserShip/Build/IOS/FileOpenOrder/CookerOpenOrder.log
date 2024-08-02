@@ -510,184 +510,190 @@
 "../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 509
 "../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 510
 "../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 511
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 512
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 513
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 514
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 515
-"../../../Engine/Content/BasicShapes/Plane.uasset" 516
-"../../../Engine/Content/BasicShapes/Plane.uexp" 517
-"../../../Engine/Content/BasicShapes/Cone.uexp" 518
-"../../../Engine/Content/BasicShapes/Cone.uasset" 519
-"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 520
-"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 521
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 522
-"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 523
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 524
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 525
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 526
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 527
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 528
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 529
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 530
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 531
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 532
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 533
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 534
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 535
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 536
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 537
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 538
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 539
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 540
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 541
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 542
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 543
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 544
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 545
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 546
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 547
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 548
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 549
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 550
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 551
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 552
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 553
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 554
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 555
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 556
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 557
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 558
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 559
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 560
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 561
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 562
-"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 563
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 564
-"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 565
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 566
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 567
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 568
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 569
-"../../../Engine/Content/Maps/Entry.umap" 570
-"../../../Engine/Content/Maps/Entry.uexp" 571
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 572
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 573
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 574
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 575
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 576
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 577
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 578
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 579
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 580
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 581
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 582
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 583
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 584
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 585
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 586
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 587
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 588
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 589
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 590
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 591
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 592
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 593
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 594
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 595
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 596
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 597
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 598
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 599
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 600
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 601
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 602
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 603
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uexp" 604
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uasset" 605
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 606
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 607
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 608
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 609
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uasset" 610
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uexp" 611
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uexp" 612
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uasset" 613
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uexp" 614
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uasset" 615
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 616
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 617
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 618
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 619
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 620
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 621
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 622
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 623
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 624
-"../../../Engine/Content/BasicShapes/Cube.uasset" 625
-"../../../Engine/Content/BasicShapes/Cube.uexp" 626
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 627
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 628
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 629
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 630
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 631
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 632
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 633
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 634
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uasset" 635
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uexp" 636
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.ubulk" 637
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uasset" 638
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uexp" 639
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 640
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 641
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 642
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 643
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 644
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 645
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 646
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 647
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 648
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 649
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 650
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uasset" 651
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uexp" 652
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uasset" 653
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uexp" 654
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.ubulk" 655
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 656
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 657
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 658
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 659
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 660
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 661
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_MacroVariation.uasset" 662
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_MacroVariation.uexp" 663
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 664
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 665
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 666
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 667
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 668
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 669
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 670
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 671
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 672
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 673
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 674
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Ground_Moss.uexp" 675
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Ground_Moss.uasset" 676
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uasset" 677
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uexp" 678
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_Projectile.uasset" 679
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_Projectile.uexp" 680
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uasset" 681
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uexp" 682
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uasset" 683
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uexp" 684
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 685
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 686
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 687
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 688
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 689
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 690
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 691
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 692
+"../../../Engine/Content/BasicShapes/Plane.uasset" 512
+"../../../Engine/Content/BasicShapes/Plane.uexp" 513
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 514
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 515
+"../../../Engine/Content/BasicShapes/Cone.uexp" 516
+"../../../Engine/Content/BasicShapes/Cone.uasset" 517
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 518
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 519
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 520
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 521
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 523
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 525
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 526
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 527
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 529
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 530
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 531
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 532
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 533
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 534
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 535
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 536
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 537
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 538
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 539
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 540
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 541
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 542
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 543
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 544
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 545
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 546
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 547
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 548
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 549
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 550
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 551
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 552
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 556
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 557
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 558
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 559
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 560
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 561
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 562
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 563
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 564
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 565
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 566
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 567
+"../../../Engine/Content/Maps/Entry.umap" 568
+"../../../Engine/Content/Maps/Entry.uexp" 569
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 570
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 571
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 572
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 573
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 574
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 575
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 576
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 577
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 578
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 579
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 580
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 581
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 582
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 583
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 584
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 585
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 586
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 587
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 588
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 589
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 590
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 591
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 592
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 593
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 594
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 595
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 596
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 597
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 598
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 599
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 600
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 601
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uexp" 602
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uasset" 603
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 604
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 605
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 606
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uexp" 607
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uasset" 608
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 609
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 610
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uexp" 611
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uasset" 612
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 613
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 614
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uasset" 615
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uexp" 616
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uasset" 617
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uexp" 618
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uexp" 619
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uasset" 620
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 621
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 622
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 623
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 624
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uasset" 625
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uexp" 626
+"../../../Engine/Content/BasicShapes/Cube.uasset" 627
+"../../../Engine/Content/BasicShapes/Cube.uexp" 628
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 629
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 630
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 631
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 632
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 633
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 634
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 635
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 636
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uasset" 637
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uexp" 638
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.ubulk" 639
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uasset" 640
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uexp" 641
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 642
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 643
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 644
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 645
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 646
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 647
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 648
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 649
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 650
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 651
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 652
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uasset" 653
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uexp" 654
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uasset" 655
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uexp" 656
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.ubulk" 657
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 658
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 659
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 660
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 661
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 662
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 663
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_MacroVariation.uasset" 664
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_MacroVariation.uexp" 665
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 666
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 667
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 668
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 669
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 670
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 671
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 672
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 673
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 674
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 675
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 676
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Ground_Moss.uexp" 677
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Ground_Moss.uasset" 678
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uasset" 679
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uexp" 680
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uasset" 681
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uexp" 682
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uasset" 683
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uexp" 684
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 685
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 686
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uexp" 687
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uasset" 688
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 689
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 690
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 691
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 692
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 693
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 694
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 695
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 696
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 697
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 698
