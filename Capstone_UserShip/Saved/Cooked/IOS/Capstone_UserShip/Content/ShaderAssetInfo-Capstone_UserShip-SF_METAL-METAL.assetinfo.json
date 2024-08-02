@@ -350,9 +350,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F7190ADF8FF86A514AA5821F721714325C89734C",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI"
+			]
+		},
+		{
 			"ShaderMapHash": "E942D6E17B380C02FB2604253A3FBE37CDFA81E5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2C12CDE21CC5509C3547887C6B06646F02123F8E",
+			"Assets": [
+				"/Game/HandheldAR/Blueprints/UI/Materials/M_ButtonUI"
 			]
 		},
 		{
