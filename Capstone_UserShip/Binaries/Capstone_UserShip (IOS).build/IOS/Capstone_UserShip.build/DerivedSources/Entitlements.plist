@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>S8Z5VHY64V.com.YourCompany.CapstoneUserShip3</string>
+	<string>4T2U2L8S32.com.YourCompany.CapstoneUserShip</string>
 	<key>com.apple.developer.team-identifier</key>
-	<string>S8Z5VHY64V</string>
+	<string>4T2U2L8S32</string>
 	<key>get-task-allow</key>
 	<true/>
 </dict>

@@ -1,4 +1,4 @@
-#include? "/Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/Versions.xcconfig"
+#include? "/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/Versions.xcconfig"
 
 // Unreal project-wide variables
 UE_XCODE_BUILD_MODE = Default
@@ -9,10 +9,10 @@ UE_SIGNING_PREFIX = com.YourCompany
 UE_PLATFORM_NAME = IOS
 UE_TARGET_NAME = Capstone_UserShip
 UE_TARGET_PLATFORM_NAME = IOS
-UE_ENGINE_DIR = /Applications/UE_5.4/Engine
-UE_BINARIES_DIR = /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Binaries/IOS
+UE_ENGINE_DIR = /Users/Shared/Epic Games/UE_5.4/Engine
+UE_BINARIES_DIR = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Binaries/IOS
 UE_STAGED_BINARIES_DIR_BASE = Capstone_UserShip
-UE_PROJECT_DIR = /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip
+UE_PROJECT_DIR = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip
 
 // Constant settings (same for all platforms and targets)
 INFOPLIST_OUTPUT_FORMAT = xml
@@ -25,7 +25,7 @@ SUPPORTED_PLATFORMS = iphoneos
 SDKROOT = iphoneos
 
 // These settings combined will tell Xcode to write to Binaries/IOS (instead of something like Binaries/Development-iphoneos)
-SYMROOT = /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Binaries
+SYMROOT = /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Binaries
 CONFIGURATION = 
 EFFECTIVE_PLATFORM_NAME = IOS
 
