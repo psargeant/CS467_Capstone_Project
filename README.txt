@@ -30,10 +30,25 @@ Get ready and PLAY! Relive the classic gameplay of Galaga like never before with
 **Progress Report Google Slides ->** https://docs.google.com/presentation/d/1anutMUIyMs1bJbJSv5kXYVirrnxKswPYWjr05BLpzY0/edit?usp=sharing
 
 ## Installation
-Step-by-step installation instructions.
+Follow these steps to set up and run the AR Galaga game on your iPhone:
+
+**Prerequisites**
+**Xcode:** Make sure you have Xcode installed on your Mac. You can download it from the Mac App Store.
+**Apple Developer Account:** You need an Apple Developer account to run the app on your iPhone. You can sign up here.
+**iPhone:** An iPhone running iOS 15.0 or later, with ARKit support.
 
 ## Usage
-How to use the project.
+**How to Play**
+Launch the Game:
+1. Open the AR Galaga app on your iPhone.
+2. Allow the app to access your camera and necessary permissions.
+
+**Gameplay Mechanics:**
+
+360-Degree Gameplay: Move your iPhone around to scan the environment and spot incoming enemy ships.
+First-Person Perspective: Experience the game from a first-person viewpoint, enhancing the immersive experience.
+Tap to Shoot: Tap anywhere on the screen to shoot at enemies. Aim carefully to maximize your score.
+Score Points: Earn points by successfully shooting down enemy ships. Your score will be displayed on the screen.
 
 ## Contributing
 Guidelines for contributing.
