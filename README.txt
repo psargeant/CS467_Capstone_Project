@@ -42,4 +42,4 @@ Guidelines for contributing.
 Project license information.
 
 ## Contact
-How to get in touch
+How to get in touch.
