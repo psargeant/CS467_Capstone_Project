@@ -1,503 +1,503 @@
-/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Module.Capstone_UserShip.cpp.o: \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedDefinitions.Core.Project.ValApi.Cpp20.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Reverse.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreTypes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Platform.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Build.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/LargeWorldCoordinates.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PreprocessorHelpers.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformCompilerPreSetup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformCompilerPreSetup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformCompilerPreSetup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformCompilerPreSetup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatform.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformCodeAnalysis.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatform.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatform.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformCompilerSetup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/UMemoryDefines.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreMiscDefines.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreDefines.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UnrealTemplate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPointer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/UnrealMemory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMemory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsContiguousContainer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StaticAssertCompleteType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MathFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UObjectHierarchyFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericWidePlatformString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformStricmp.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/EnableIf.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharEncodingCompatibleWith.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharEncodingSimplyConvertibleTo.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsFixedWidthCharEncoding.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformCrt.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Char.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IntType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AssertionMacros.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/NumericLimits.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CompressionFlags.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EnumClassFlags.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSSystemIncludes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/CpuProfilerTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformAtomics.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformAtomics.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformAtomics.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformAtomics.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformAtomics.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Config.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Channel.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Channel.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Trace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Trace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Launder.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArrayOrRefOfTypeByPredicate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsValidVariadicFunctionArg.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsEnum.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/VarArgs.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/String/FormatStringSan.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDevice.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogVerbosity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/MemoryBase.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Exec.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Atomic.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeCounter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeCounter64.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsIntegral.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTrivial.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/AndOrNot.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyDestructible.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyCopyConstructible.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyCopyAssignable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMemory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMemory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformMemory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MemoryTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/CopyQualifiersAndRefsFromTo.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/CopyQualifiersFromTo.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UnrealTypeTraits.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArithmetic.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Models.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Identity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPODType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsUECoreType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RemoveReference.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/TypeCompatibleBytes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/UseBitwiseSwap.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/AsyncWork.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Compression.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Map.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerElementTypeCompatibility.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Set.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerHelpers.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Decay.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsFloatingPoint.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ResolveTypeAmbiguity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsSigned.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPolymorphic.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/MemoryOps.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Sorting.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/BinarySearch.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IdentityFunctor.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Invoke.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/MemberFunctionPtrOuter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Less.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Sort.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/IntroSort.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Impl/BinaryHeap.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ReversePredicate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathUtility.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Array.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ReverseIterate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/AllowShrinking.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/Archive.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformProperties.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformProperties.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformProperties.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextNamespaceFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineVersionBase.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/ArchiveCookData.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsEnumClass.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/ObjectVersion.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryImageWriter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryLayout.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/StaticClassProvider.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/StaticStructProvider.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/EnumAsByte.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/TypeHash.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Crc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/DelayedAutoRegister.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsAbstract.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Heapify.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/HeapSort.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/IsHeap.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/StableSort.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Rotate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/GetTypeHashable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/AlignmentTemplates.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/ElementType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StructBuilder.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Function.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IntrusiveUnsetOptionalState.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OptionalFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/FunctionFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/SparseArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ScriptArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/BitArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchive.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/Formatters/BinaryArchiveFormatter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveFormatter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveNameHelpers.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveAdapters.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/Insertable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/ArchiveProxy.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveSlots.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Optional.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveSlotBase.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UniqueObj.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UniquePtr.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RemoveExtent.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveDefines.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealStringIncludes.h.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StringFormatArg.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RetainedRef.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Tuple.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/IntegerSequence.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/CriticalSection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSCriticalSection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformCriticalSection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timespan.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Interval.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PThreadCriticalSection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PThreadRWLock.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringConv.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UnrealNames.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UnrealNames.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StringBuilder.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringView.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/String/Find.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ArrayView.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/Stats.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/PointerIsConvertibleFromTo.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/LosesQualifiersFromTo.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreGlobals.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformTLS.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformTLS.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformTLS.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformTLS.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogCategory.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogScopedCategoryAndVerbosityOverride.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/FormatArgsTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/AutoRTFM/AutoRTFM.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerTesting.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/WeakObjectPtrTemplates.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/WeakObjectPtrTemplatesFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/MulticastDelegateBase.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/IDelegateInstance.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSettings.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateBase.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateAccessHandler.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MTAccessDetector.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformStackWalk.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformStackWalk.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformStackWalk.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformStackWalk.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopeLock.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImplFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstanceInterface.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/ScriptDelegates.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsConst.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateCombinations.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSingleton.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/TlsAutoCleanup.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsCommon.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/Stats2.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ChunkedArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/IndirectArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/LockFreeList.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformProcess.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformProcess.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformProcess.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformProcess.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformAffinity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSAsyncTask.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NoopCounter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/LowLevelMemTracker.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/LowLevelMemTrackerDefines.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/TagTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/LogScope.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Writer.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Color.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Parse.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MiscTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Event.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/InheritedContext.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MetadataTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/StringsTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Trace.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/EventNode.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Field.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Atomic.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocol.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol0.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol1.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol2.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol3.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol4.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol5.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol6.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol7.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/ImportantLogScope.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/ImportantLogScope.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/SharedBuffer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/LogScope.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IQueuedWork.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RefCounting.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/QueuedThreadPool.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/Scheduler.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/Task.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/TaskDelegate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/ConcurrentLinearAllocator.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/MallocAnsi.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/LockFreeFixedSizeAllocator.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MemStack.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsInvocable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopeExit.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/TaskShared.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/WaitingQueue.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformAffinity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformAffinity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformAffinity.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Thread.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/LocalQueue.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RandomStream.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Box.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/LargeWorldCoordinatesSerializer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NetworkVersion.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineNetworkCustomVersion.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Guid.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Hash/CityHash.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntPoint.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector2D.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ByteSwap.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Text.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/SortedMap.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextKey.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocKeyFuncs.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/CulturePointer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextComparison.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextLocalizationManager.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskGraphFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocTesting.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocalizedTextSourceTypes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/StringTableCoreFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/ITextData.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsConstructible.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Internationalization.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntVector.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Axis.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/VectorRegister.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathNeon.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float16.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float32.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathVectorConstants.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathVectorCommon.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Sphere.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Matrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector4.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Plane.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Rotator.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Matrix.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Transform.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Quat.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScalarRegister.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformNonVectorized.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformVectorized.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathSSE.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationTranslationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/QuatRotationTranslationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/Containers/FAAArrayQueue.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/Containers/HazardPointer.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/CoreMinimal.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IntegralConstant.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsClass.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameNumber.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntRect.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TwoVectors.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Edge.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/CapsuleShape.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/DateTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RangeBound.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AutomationEvent.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Range.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RangeSet.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Box2D.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/BoxSphereBounds.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/OrientedBox.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationAboutPointMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScaleRotationTranslationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/PerspectiveMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/OrthoMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TranslationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InverseRotationMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScaleMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MirrorMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ClipProjectionMatrix.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ConvexHull2d.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ColorList.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/CurveEdInterface.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InterpCurvePoint.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float16Color.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InterpCurve.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/MinElement.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Impl/RangePointerType.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Ray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector2DHalf.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Future.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/ParallelFor.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/IConsoleManager.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AccessDetection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Features/IModularFeature.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timeout.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskTrace.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Mutex.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/LockTags.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/UniqueLock.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/App.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CommandLine.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameRate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ExpressionParserTypes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ValueOrError.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/TVariant.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/TVariantMeta.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ExpressionParserTypes.inl \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/QualifiedFrameTime.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timecode.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Fork.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/DynamicRHIResourceArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ResourceArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryImage.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/HashTable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SecureHash.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BufferReader.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/String/BytesToHex.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/String/HexToBytes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/List.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Queue.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StaticArray.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Ticker.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/MpscQueue.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Features/IModularFeatures.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformFile.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/FileManager.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Runnable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/RunnableThread.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeBool.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/GatherableTextData.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/InternationalizationMetadata.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/TokenizedMessage.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Attribute.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/BasicMathExpressionEvaluator.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/FastDecimalFormat.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/SHMath.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformCalculus.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformCalculus2D.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AutomationTest.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Async.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreStats.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Regex.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FeedbackContext.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SlowTask.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SlowTaskStack.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/BufferedOutputDevice.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDeviceRedirector.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/PimplPtr.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CompilationResult.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ConfigCacheIni.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextLocalizationResource.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ConfigTypes.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Paths.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreDelegates.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformFile.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformFile.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformFile.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AES.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineVersion.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FileHelper.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FilterCollection.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IFilter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MessageDialog.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NetworkGuid.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ObjectThumbnail.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDeviceError.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopedEvent.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SingleThreadRunnable.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/ModuleInterface.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/ModuleManager.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/Histogram.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/ProfilingHelpers.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/ResourceSize.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitReader.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitArchive.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitWriter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/CustomVersion.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryArchive.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryReader.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Memory/MemoryView.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Memory/MemoryFwd.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryWriter.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsMisc.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Greater.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ScopedCallback.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/DebugSerializationFlags.h \
-  /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/PropertyPortFlags.h \
+/Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Module.Capstone_UserShip.cpp.o: \
+  /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedPCH.Core.Project.ValApi.Cpp20.h \
+  /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/Capstone_UserShip/Development/Core/SharedDefinitions.Core.Project.ValApi.Cpp20.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Reverse.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/CoreTypes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Platform.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Build.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/LargeWorldCoordinates.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PreprocessorHelpers.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformCompilerPreSetup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformCompilerPreSetup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformCompilerPreSetup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformCompilerPreSetup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatform.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformCodeAnalysis.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatform.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatform.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformCompilerSetup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/UMemoryDefines.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreMiscDefines.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreDefines.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UnrealTemplate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPointer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/UnrealMemory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMemory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/CoreFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsContiguousContainer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StaticAssertCompleteType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MathFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UObjectHierarchyFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericWidePlatformString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformStricmp.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/EnableIf.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharEncodingCompatibleWith.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsCharEncodingSimplyConvertibleTo.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IsFixedWidthCharEncoding.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformCrt.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Char.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/IntType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AssertionMacros.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/NumericLimits.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CompressionFlags.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EnumClassFlags.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSSystemIncludes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/CpuProfilerTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformAtomics.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformAtomics.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformAtomics.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformAtomics.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformAtomics.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Config.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Channel.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Channel.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Trace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Trace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Launder.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArrayOrRefOfTypeByPredicate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsValidVariadicFunctionArg.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsEnum.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/VarArgs.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/String/FormatStringSan.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDevice.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogVerbosity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/MemoryBase.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Exec.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Atomic.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeCounter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeCounter64.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsIntegral.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTrivial.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/AndOrNot.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyDestructible.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyCopyConstructible.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsTriviallyCopyAssignable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMemory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMemory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformMemory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MemoryTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/CopyQualifiersAndRefsFromTo.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/CopyQualifiersFromTo.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UnrealTypeTraits.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArithmetic.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Models.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Identity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPODType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsUECoreType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RemoveReference.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/TypeCompatibleBytes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/UseBitwiseSwap.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/AsyncWork.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Compression.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Map.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerElementTypeCompatibility.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Set.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ContainerHelpers.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Decay.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsFloatingPoint.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ResolveTypeAmbiguity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsSigned.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Clang/ClangPlatformMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsPolymorphic.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/MemoryOps.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Sorting.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/BinarySearch.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IdentityFunctor.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Invoke.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/MemberFunctionPtrOuter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Less.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Sort.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/IntroSort.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Impl/BinaryHeap.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ReversePredicate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathUtility.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Array.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ReverseIterate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/AllowShrinking.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/Archive.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformProperties.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformProperties.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformProperties.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextNamespaceFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineVersionBase.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/ArchiveCookData.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsEnumClass.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/ObjectVersion.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryImageWriter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryLayout.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/StaticClassProvider.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/StaticStructProvider.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/EnumAsByte.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/TypeHash.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Crc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/DelayedAutoRegister.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsAbstract.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Heapify.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/HeapSort.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/IsHeap.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/StableSort.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Rotate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/GetTypeHashable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/AlignmentTemplates.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Traits/ElementType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StructBuilder.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Function.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IntrusiveUnsetOptionalState.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OptionalFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/FunctionFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/SparseArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ScriptArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/BitArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchive.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/Formatters/BinaryArchiveFormatter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveFormatter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveNameHelpers.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveAdapters.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Concepts/Insertable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/ArchiveProxy.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveSlots.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Optional.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveSlotBase.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UniqueObj.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/UniquePtr.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RemoveExtent.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/StructuredArchiveDefines.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealStringIncludes.h.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StringFormatArg.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RetainedRef.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Tuple.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/IntegerSequence.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/CriticalSection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSCriticalSection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformCriticalSection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timespan.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Interval.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PThreadCriticalSection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PThreadRWLock.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/NameTypes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringConv.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UnrealNames.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/UnrealNames.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/StringBuilder.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StringView.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/String/Find.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ArrayView.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/Stats.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/PointerIsConvertibleFromTo.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/LosesQualifiersFromTo.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/CoreGlobals.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformTLS.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformTLS.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformTLS.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformTLS.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogCategory.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogScopedCategoryAndVerbosityOverride.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/LogTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/FormatArgsTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/AutoRTFM/AutoRTFM.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerTesting.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/WeakObjectPtrTemplates.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/WeakObjectPtrTemplatesFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/MulticastDelegateBase.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/IDelegateInstance.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSettings.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateBase.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateAccessHandler.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MTAccessDetector.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformStackWalk.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformStackWalk.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformStackWalk.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformStackWalk.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopeLock.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImplFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstanceInterface.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/ScriptDelegates.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsConst.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateCombinations.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSingleton.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/TlsAutoCleanup.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsCommon.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/Stats2.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ChunkedArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/IndirectArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/LockFreeList.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformProcess.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformProcess.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformProcess.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformProcess.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformAffinity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSAsyncTask.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NoopCounter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/LowLevelMemTracker.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/LowLevelMemTrackerDefines.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/TagTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/LogScope.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Writer.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Color.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Parse.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MiscTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Event.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/InheritedContext.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/MetadataTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/StringsTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Trace.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/EventNode.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Field.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Atomic.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocol.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol0.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol1.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol2.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol3.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol4.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol5.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol6.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Protocols/Protocol7.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/ImportantLogScope.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/ImportantLogScope.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/Important/SharedBuffer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/TraceLog/Public/Trace/Detail/LogScope.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IQueuedWork.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/RefCounting.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/QueuedThreadPool.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/Scheduler.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/Task.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/TaskDelegate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/ConcurrentLinearAllocator.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/MallocAnsi.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/LockFreeFixedSizeAllocator.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MemStack.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsInvocable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopeExit.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/TaskShared.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/WaitingQueue.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformAffinity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformAffinity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformAffinity.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Thread.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Fundamental/LocalQueue.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RandomStream.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Box.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/LargeWorldCoordinatesSerializer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NetworkVersion.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineNetworkCustomVersion.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Guid.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Hash/CityHash.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntPoint.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector2D.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ByteSwap.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Text.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/SortedMap.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextKey.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocKeyFuncs.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/CulturePointer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextComparison.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextLocalizationManager.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskGraphFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocTesting.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/LocalizedTextSourceTypes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/StringTableCoreFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/ITextData.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsConstructible.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Internationalization.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntVector.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Axis.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/VectorRegister.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathNeon.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float16.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float32.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathVectorConstants.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathVectorCommon.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Sphere.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Matrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector4.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Plane.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Rotator.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Matrix.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Transform.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Quat.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScalarRegister.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformNonVectorized.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformVectorized.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMathSSE.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationTranslationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/QuatRotationTranslationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/Containers/FAAArrayQueue.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Experimental/Containers/HazardPointer.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/CoreMinimal.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IntegralConstant.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/IsClass.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameNumber.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/IntRect.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TwoVectors.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Edge.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/CapsuleShape.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/DateTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RangeBound.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AutomationEvent.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Range.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RangeSet.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Box2D.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/BoxSphereBounds.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/OrientedBox.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RotationAboutPointMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScaleRotationTranslationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/PerspectiveMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/OrthoMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TranslationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InverseRotationMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ScaleMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MirrorMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ClipProjectionMatrix.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ConvexHull2d.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/UnrealMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/ColorList.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/CurveEdInterface.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InterpCurvePoint.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Float16Color.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/InterpCurve.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/MinElement.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Algo/Impl/RangePointerType.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Ray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector2DHalf.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Future.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/ParallelFor.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/IConsoleManager.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AccessDetection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Features/IModularFeature.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timeout.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/TaskTrace.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Mutex.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/LockTags.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/UniqueLock.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/App.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CommandLine.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameRate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ExpressionParserTypes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ValueOrError.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/TVariant.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/TVariantMeta.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ExpressionParserTypes.inl \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FrameTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/QualifiedFrameTime.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Timecode.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Fork.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/DynamicRHIResourceArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/ResourceArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryImage.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/HashTable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SecureHash.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BufferReader.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/String/BytesToHex.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/String/HexToBytes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/List.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Queue.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/StaticArray.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Ticker.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/MpscQueue.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Features/IModularFeatures.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformFile.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/FileManager.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/Runnable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/RunnableThread.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/ThreadSafeBool.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/GatherableTextData.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/InternationalizationMetadata.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Logging/TokenizedMessage.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Attribute.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/BasicMathExpressionEvaluator.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/FastDecimalFormat.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/SHMath.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformCalculus.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Math/TransformCalculus2D.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AutomationTest.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Async/Async.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreStats.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/Regex.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FeedbackContext.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SlowTask.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SlowTaskStack.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/BufferedOutputDevice.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDeviceRedirector.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/PimplPtr.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CompilationResult.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ConfigCacheIni.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Internationalization/TextLocalizationResource.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ConfigTypes.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/Paths.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/CoreDelegates.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/HAL/PlatformFile.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/IOS/IOSPlatformFile.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Apple/ApplePlatformFile.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/AES.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EngineVersion.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FileHelper.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/FilterCollection.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/IFilter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/MessageDialog.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/NetworkGuid.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ObjectThumbnail.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/OutputDeviceError.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/ScopedEvent.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/SingleThreadRunnable.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/ModuleInterface.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Modules/ModuleManager.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/Histogram.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/ProfilingHelpers.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/ProfilingDebugging/ResourceSize.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitReader.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitArchive.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/BitWriter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/CustomVersion.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryArchive.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryReader.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Memory/MemoryView.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Memory/MemoryFwd.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Serialization/MemoryWriter.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Stats/StatsMisc.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/Greater.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/Templates/ScopedCallback.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/DebugSerializationFlags.h \
+  /Applications/UE_5.4/Engine/Source/Runtime/Core/Public/UObject/PropertyPortFlags.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c++/v1/__config_site \
@@ -1948,8 +1948,8 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c++/v1/concepts \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/sanitizer/asan_interface.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/sanitizer/common_interface_defs.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Module.Capstone_UserShip.cpp \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Definitions.Capstone_UserShip.h \
-  /Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.cpp \
+  /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Module.Capstone_UserShip.cpp \
+  /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Build/IOS/arm64/UnrealGame/Development/Capstone_UserShip/Definitions.Capstone_UserShip.h \
+  /Users/geminikaushik/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Intermediate/Source/Capstone_UserShip.cpp \
   Runtime/Core/Public/CoreTypes.h \
   Runtime/Core/Public/Modules/ModuleManager.h
