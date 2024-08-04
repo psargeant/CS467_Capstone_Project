@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7F78A7060FB6A8AED413929591364708DF453BAC",
+			"Assets": [
+				"/Game/AlienShipBase"
+			]
+		},
+		{
 			"ShaderMapHash": "7A323209BAFA60456250F3BFE43668C06A11577E",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
@@ -44,6 +50,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0E79C31040D36E5E981CDC10FC494513C20C3046",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "31113415787FEA34215527C126243CEE3273EE85",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -56,15 +68,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E46DE51E5CA6893C26493CABF7CFDE342F6499DF",
+			"ShaderMapHash": "CC446519D6A7188B1B5DF477C18C8D8E6B4E0B83",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+				"/Game/DoubleSHipBase"
 			]
 		},
 		{
-			"ShaderMapHash": "AFCFC523346CEEDB3951653C60D320CAD90238F1",
+			"ShaderMapHash": "E46DE51E5CA6893C26493CABF7CFDE342F6499DF",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Moss"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
@@ -77,12 +89,6 @@
 			"ShaderMapHash": "A4BF6A2C75116192C3F367A0AE9626E31919FDAE",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2748423D897388AD45B1418927C7D23C08AC925C",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Walnut"
 			]
 		},
 		{
