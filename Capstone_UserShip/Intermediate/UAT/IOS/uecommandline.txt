@@ -1,1 +1,1 @@
--project="../../../Capstone_UserShip/Capstone_UserShip.uproject" /Game/HandheldAR/Maps/MainMenuLevel -Messaging
+-project="../../../Capstone_UserShip/Capstone_UserShip.uproject" /Game/HandheldAR/Maps/HandheldARBlankMap -Messaging
