@@ -548,223 +548,234 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 547
 "../../../Engine/Content/Maps/Entry.umap" 548
 "../../../Engine/Content/Maps/Entry.uexp" 549
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 550
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 551
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uexp" 550
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uasset" 551
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 552
 "../../../Engine/Content/BasicShapes/Cylinder.uexp" 553
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uasset" 554
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uexp" 555
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uasset" 556
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uexp" 557
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uexp" 558
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Color.uasset" 559
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uexp" 560
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uasset" 561
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 562
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 563
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 564
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 565
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 566
-"../../../Engine/Content/BasicShapes/Cube.uasset" 567
-"../../../Engine/Content/BasicShapes/Cube.uexp" 568
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 569
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 570
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 571
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 572
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 573
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 574
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 575
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 576
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uasset" 577
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uexp" 578
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.ubulk" 579
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uasset" 580
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uexp" 581
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 582
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 583
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 584
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 585
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 586
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 587
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 588
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 589
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 590
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 591
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 592
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uasset" 593
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uexp" 594
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uasset" 595
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uexp" 596
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.ubulk" 597
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Glass.uasset" 598
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Glass.uexp" 599
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 600
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 601
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 602
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 603
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 604
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 605
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 606
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 607
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 608
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 609
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 610
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 611
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 612
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 613
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 614
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 615
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 616
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 617
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 618
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 619
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 620
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 621
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 622
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 623
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 624
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 625
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 626
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 627
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 628
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 629
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 630
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 631
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uexp" 632
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uasset" 633
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/AlienShipBase.uexp" 634
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/AlienShipBase.uasset" 635
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uasset" 636
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uexp" 637
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/DoubleSHipBase.uexp" 638
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/DoubleSHipBase.uasset" 639
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNDOUBLEALIEN.uexp" 640
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNDOUBLEALIEN.uasset" 641
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uasset" 642
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uexp" 643
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 644
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 645
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uasset" 646
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uexp" 647
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uasset" 648
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uexp" 649
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 650
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 651
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uexp" 652
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uasset" 653
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uexp" 654
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uasset" 655
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 656
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 657
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 658
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 659
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 660
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 661
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 662
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 663
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 664
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 665
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uexp" 666
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uasset" 667
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uasset" 668
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uexp" 669
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uexp" 670
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uasset" 671
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uasset" 672
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uexp" 673
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uasset" 674
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uexp" 675
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uexp" 676
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uasset" 677
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uasset" 678
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uexp" 679
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uexp" 680
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uasset" 681
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uexp" 682
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uasset" 683
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 684
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 685
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 686
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 687
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 688
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 689
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 690
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 691
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 692
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 693
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 694
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 695
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 696
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 697
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 698
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 699
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 700
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 701
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 702
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 703
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uexp" 704
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uasset" 705
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uexp" 706
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uasset" 707
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uexp" 708
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uasset" 709
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uexp" 710
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uasset" 711
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uexp" 712
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uasset" 713
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uasset" 714
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uexp" 715
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uexp" 716
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uasset" 717
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uasset" 718
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uexp" 719
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uasset" 720
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uexp" 721
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uasset" 722
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uexp" 723
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uasset" 724
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uexp" 725
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uexp" 726
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uasset" 727
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uexp" 728
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uasset" 729
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uasset" 730
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uexp" 731
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uexp" 732
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uasset" 733
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uasset" 734
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uexp" 735
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uexp" 736
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uasset" 737
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uasset" 738
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uexp" 739
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uasset" 740
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uexp" 741
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uexp" 742
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uasset" 743
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uasset" 744
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uexp" 745
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uexp" 746
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uasset" 747
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uexp" 748
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uasset" 749
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 750
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 751
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uasset" 752
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uexp" 753
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uasset" 754
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uexp" 755
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 756
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 757
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 758
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 759
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 760
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 761
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 762
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 763
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 764
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 765
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/MainMenuGameMode.uexp" 766
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/MainMenuGameMode.uasset" 767
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/MainMenuLevel.umap" 768
-"/Users/parkersargeant/Documents/Unreal Projects/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/MainMenuLevel.uexp" 769
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 554
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 555
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 556
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 557
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 558
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 559
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 560
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 561
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uasset" 562
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.uexp" 563
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Burst_M.ubulk" 564
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uasset" 565
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_Burst.uexp" 566
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 567
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 568
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 569
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 570
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 571
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 572
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 575
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 576
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 577
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uasset" 578
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Particles/P_Explosion.uexp" 579
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uasset" 580
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.uexp" 581
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Explosion01.ubulk" 582
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Audio/Explosion02.uexp" 583
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Audio/Explosion02.uasset" 584
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Audio/Explosion02.ubulk" 585
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Audio/Explosion_Cue.uasset" 586
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Audio/Explosion_Cue.uexp" 587
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uasset" 588
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/Materials/M_Plastic.uexp" 589
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uasset" 590
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing_Main.uexp" 591
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uexp" 592
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UserShip_Asset/A-Wing.uasset" 593
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uexp" 594
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.ubulk" 595
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6.uasset" 596
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uexp" 597
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/Laser_Cue.uasset" 598
+"../../../Engine/Content/BasicShapes/Cube.uasset" 599
+"../../../Engine/Content/BasicShapes/Cube.uexp" 600
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Glass.uasset" 601
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/StarterContent/Materials/M_Glass.uexp" 602
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/DoubleSHipBase.uexp" 603
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/DoubleSHipBase.uasset" 604
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/AlienShipBase.uexp" 605
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/AlienShipBase.uasset" 606
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uptnl" 607
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uexp" 608
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.uasset" 609
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_BaseColor.ubulk" 610
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uexp" 611
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uasset" 612
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.ubulk" 613
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Normal.uptnl" 614
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uexp" 615
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.ubulk" 616
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uasset" 617
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Emissive.uptnl" 618
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.ubulk" 619
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uexp" 620
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uasset" 621
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal_Roughness.uptnl" 622
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uexp" 623
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Metal.uasset" 624
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.ubulk" 625
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uptnl" 626
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uexp" 627
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_BaseColor.uasset" 628
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uexp" 629
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uptnl" 630
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.uasset" 631
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Normal.ubulk" 632
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uexp" 633
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.ubulk" 634
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uasset" 635
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass_Roughness.uptnl" 636
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uasset" 637
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO_Glass.uexp" 638
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uexp" 639
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/ProductAssets/UFO_ASSET/UFO_fbx/UFO.uasset" 640
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uasset" 641
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNALIEN.uexp" 642
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNDOUBLEALIEN.uexp" 643
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNDOUBLEALIEN.uasset" 644
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 645
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 646
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 647
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 648
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uexp" 649
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_EnemyProjectile.uasset" 650
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uexp" 651
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/SoundEffects/35683__jobro__laser6_Cue.uasset" 652
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uexp" 653
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/SPAWNUFO.uasset" 654
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uasset" 655
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_UserProjectile.uexp" 656
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uexp" 657
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/D_ARSessionConfig.uasset" 658
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uasset" 659
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/WBP_Score.uexp" 660
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/filled_heart.uexp" 661
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/filled_heart.uasset" 662
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/unfilled_heart.uasset" 663
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/unfilled_heart.uexp" 664
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/BP_HealthWidget.uasset" 665
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/HealthWidget/BP_HealthWidget.uexp" 666
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uasset" 667
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/UserShip.uexp" 668
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uexp" 669
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uasset" 670
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uasset" 671
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uexp" 672
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uexp" 673
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uasset" 674
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uasset" 675
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uexp" 676
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uasset" 677
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uexp" 678
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uexp" 679
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uasset" 680
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uasset" 681
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uexp" 682
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uexp" 683
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uasset" 684
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uexp" 685
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uasset" 686
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 687
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 688
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 689
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 690
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 691
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 692
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 693
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 694
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 695
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 696
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 697
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 698
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 699
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 700
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 701
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 702
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 703
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 704
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 705
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 706
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uexp" 707
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uasset" 708
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uexp" 709
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uasset" 710
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uexp" 711
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uasset" 712
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uexp" 713
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uasset" 714
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uexp" 715
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uasset" 716
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uasset" 717
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uexp" 718
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uexp" 719
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uasset" 720
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uasset" 721
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uexp" 722
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uasset" 723
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uexp" 724
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uasset" 725
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uexp" 726
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uasset" 727
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uexp" 728
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uexp" 729
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uasset" 730
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uexp" 731
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uasset" 732
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uasset" 733
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uexp" 734
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uexp" 735
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uasset" 736
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uasset" 737
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uexp" 738
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uexp" 739
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uasset" 740
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uasset" 741
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uexp" 742
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uasset" 743
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uexp" 744
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uexp" 745
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uasset" 746
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uasset" 747
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uexp" 748
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uexp" 749
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uasset" 750
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uexp" 751
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uasset" 752
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 753
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 754
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uasset" 755
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uexp" 756
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uasset" 757
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uexp" 758
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 759
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 760
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 761
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 762
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 763
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 764
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 765
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 766
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 767
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 768
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 769
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 770
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/MainMenuGameMode.uexp" 771
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/MainMenuGameMode.uasset" 772
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/MainMenuLevel.umap" 773
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/MainMenuLevel.uexp" 774
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 775
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 776
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 777
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 778
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 779
+"/Users/daniel/Documents/GitHub/CS467_Capstone_Project/Capstone_UserShip/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 780
